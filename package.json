@@ -1,0 +1,16 @@
+{
+  "name": "n8n",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "n8n": "^1.88.0"
+  }
+}
